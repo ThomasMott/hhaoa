@@ -1,0 +1,29 @@
+---
+title: Holistic hound and other animals | About me.
+description: About me.
+layout: layouts/base.njk
+pagination:
+  data: collections.post
+  size: 2
+  alias: posts
+  reverse: true
+---
+<section class="bg">
+	<div class="grid md">
+		<div class="details">
+			<h1>About</h1>
+			<p>FoxGibbon is a carefully curated platform for design and creative inspiration featuring design news, psychology and ideas.</p>
+			<p>Founded by <a href="https://thomasmott.studio">Thomas Mott</a>, I work as a specialist <strong>user-experiece</strong> / <strong>user-interface designer</strong> and <strong>front-end developer</strong>. I have a strong interest in <strong>accessibility</strong>, <strong>user testing</strong>, <strong>design psychology</strong>, <strong>ethical design</strong>, and work on a lot of side projects.</p>
+			<p>I'm located in <strong>Bristol</strong>, England. I have worked as a freelance consultant in the past and am always interested in impactful opportunities. This can be from accessibility audits, to wireframing or coding front-end components.</p>
+		</div>
+	</div>
+</section>
+<section class="bg">
+	<div class="grid md">
+		<div class="details">
+			<h1>Reach out</h1>
+			<p>If you have a project that you think might fit me, you can reach out through <a href="mailto:thomasnathanielmott@gmail.com">thomasnathanielmott@gmail.com</a> or <a href="https://www.linkedin.com/in/thomas-mott-57348b150/">LinkedIn</a>.</p>
+		</div>
+	</div>
+</section>
+{% include "posts-latest.njk" %}
