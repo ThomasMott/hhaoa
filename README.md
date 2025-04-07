@@ -4,7 +4,7 @@
 
 Pull requests are welcome.
 
-If you want to add a post to FoxGibbon then simply add `{postName}.md` into the `/posts` directory.
+If you want to add a service to HHAOA then simply add `{postName}.md` into the `/posts` directory.
 
 Posts require a title: _string_, name: _string_, tldr: _string_, time: _string_, image: _string_, tags: _array_, date: _YYYY-MM-DD_ and layout: _layouts/post.njk_. These are set at the top of the markdown file, see existing posts for more.
 
@@ -12,7 +12,7 @@ If adding media please add into `/static/images/blog` and create a new folder wi
 
 ### Media size
 
-All media must be in `.webp` format with max image width at 1760px. Anything larger will not be added.
+All media must be in `.jpg` format.
 
 Once everything is added run Eleventy (more below on that) and your post will be converted to html.
 
@@ -21,7 +21,7 @@ Once everything is added run Eleventy (more below on that) and your post will be
 clone repo:
 
 ```
-git clone https://github.com/ThomasMott/fg.git
+git clone https://github.com/ThomasMott/hhaoa.git
 ```
 
 cd into root folder and install dependencies:
