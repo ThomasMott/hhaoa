@@ -6,15 +6,6 @@ js: read
 <section>
 	<div class="grid">
 		<div class="top-info">
-			<ul class="ul-s">
-				{% for tag in tags %}
-					{% if tag !== 'post' %}
-						{% if tag !== 'ep' %}
-							<li><a href="/categories/{{tag}}/">{{tag}}</a></li>
-						{% endif %}
-					{% endif %}
-				{% endfor %}
-			</ul>
 			<h1 class="title"><span>{{ title }}</span></h1>
 			{% if tldr %}
 				<div class="tldr">

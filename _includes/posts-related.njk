@@ -1,6 +1,6 @@
 <section class="bg">
 	<div class="grid">
-		<h1>Related services</h1>
+		<h1>More services</h1>
 		<div class="row blog-card archives">
 			{% for post in rposts %}
 				<article class="cards archive">
@@ -11,7 +11,6 @@
 						<div class="card-txt">
 							<div class="main-txt">
 								<h3><span>{{ post.data.title }}</span></h3>
-								<p class="s">{{ post.data.date | postDate }}</p>
 							</div>
 						</div>
 					</a>
