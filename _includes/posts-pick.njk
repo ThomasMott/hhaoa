@@ -5,7 +5,7 @@
 			{% for post in eposts %}
 				{% if eposts[0].data.title == post.data.title %}
 					<article class="cards first">
-						<a href="/posts/{{ post.data.name }}" title="{{ post.data.title }}">
+						<a href="/services/{{ post.data.name }}" title="{{ post.data.title }}">
 							<div class="card-img">
 								<img src="{{ post.data.image }}">
 							</div>
@@ -32,7 +32,7 @@
 				{% for post in eposts %}
 					{% if eposts[0].data.title !== post.data.title %}
 						<article class="cards">
-							<a href="/posts/{{ post.data.name }}" title="{{ post.data.title }}">
+							<a href="/services/{{ post.data.name }}" title="{{ post.data.title }}">
 								<div class="card-img">
 									<img src="{{ post.data.image }}">
 								</div>
