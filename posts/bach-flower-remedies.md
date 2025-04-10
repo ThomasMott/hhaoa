@@ -39,6 +39,6 @@ The session lasts around 30 - 45 minutes, with preparation of a remedy bottle, a
 
 _Mileage up to a 20 mile radius from my base is included in the price._
 
-If you wish to arrange a session, or you have any questions or concerns, [please get in touch](#).
+If you wish to arrange a session, or you have any questions or concerns, [please get in touch](/contact/).
 
-[Link to the Consultation form which requires completion prior to the session](#).
+[Link to the Consultation form which requires completion prior to the session](https://docs.google.com/forms/d/e/1FAIpQLScPVpjjkPhLHCe9rczJUpoXZE4wWQiod0EMNBXUvg4ClUPv5Q/viewform).

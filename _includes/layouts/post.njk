@@ -59,4 +59,5 @@ js: read
 </section>
 <div id="reading-progress"><div class="reading-progress-container"><div id="reading-progress-fill"></div></div></div>
 {% set rposts = collections[tags[1]] | related(page.url, 6671) %}
+{% include "etsy.njk" %}
 {% include "posts-related.njk" %}

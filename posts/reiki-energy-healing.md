@@ -45,8 +45,8 @@ The session lasts on average around 30 - 45 minutes from start to finish and wou
 
 _Mileage up to a 20 mile radius from my base is included in the price._
 
-If you wish to arrange a session, or you have any questions or concerns, [please get in touch](#).
+If you wish to arrange a session, or you have any questions or concerns, [please get in touch](/contact/).
 
-[Link to the Consultation Form which requires completion prior to the session](#).
+[Link to the Consultation Form which requires completion prior to the session](https://docs.google.com/forms/d/e/1FAIpQLSciLS16DkBjmNd6DiIs9b3iR6-vsxsW27JxiCsxDYKeToTYeQ/viewform).
 
 **An information sheet with further guidance on arranging and preparing for the session will also be made available at the session booking.**
