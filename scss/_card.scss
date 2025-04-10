@@ -12,6 +12,28 @@
 					grid-template-columns: repeat(2, 1fr) !important;
 				}
 			}
+			&.referrals {
+				@media (min-width: $breakpoint-sm) {
+					grid-template-columns: repeat(1, 1fr) !important;
+				}
+			}
+			&.referrals-two {
+				@media (min-width: $breakpoint-sm) {
+					grid-template-columns: repeat(1, 1fr) !important;
+				}
+			}
+		}
+	}
+
+	.referral {
+		padding: $spacing_five;
+		border: 1px solid var(--grey_light);
+		border-radius: $radius_lg;
+		background-color: var(--white);
+
+		p {
+			font-size: 14px;
+			margin: $spacing_five 0 0 0;
 		}
 	}
 
@@ -29,6 +51,30 @@
 
 			@media (min-width: $breakpoint-lg) {
 				grid-template-columns: repeat(4, 1fr) !important;
+			}
+		}
+
+		&.referrals {
+			gap: $spacing_seven !important;
+
+			@media (min-width: $breakpoint-md) {
+				grid-template-columns: repeat(3, 1fr) !important;
+			}
+
+			@media (min-width: $breakpoint-lg) {
+				grid-template-columns: repeat(3, 1fr) !important;
+			}
+		}
+
+		&.referrals-two {
+			gap: $spacing_seven !important;
+
+			@media (min-width: $breakpoint-md) {
+				grid-template-columns: repeat(2, 1fr) !important;
+			}
+
+			@media (min-width: $breakpoint-lg) {
+				grid-template-columns: repeat(2, 1fr) !important;
 			}
 		}
 
