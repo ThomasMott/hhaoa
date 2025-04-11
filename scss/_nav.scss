@@ -19,8 +19,15 @@
 
 		a,
 		p {
-			font-size: 18px;
+			font-size: 17px;
 			font-family: "Questrial", serif;
+		}
+
+		@media (min-width: $breakpoint-sm) {
+			a,
+			p {
+				font-size: 18px;
+			}
 		}
 
 		li a {
@@ -118,7 +125,7 @@
 
 			li {
 				display: inline;
-				padding: 0 8px;
+				padding: 0 4px;
 
 				a {
 					display: inline-block;
@@ -128,6 +135,12 @@
 					padding-left: 0;
 				}
 			}
+
+			@media (min-width: $breakpoint-sm) {
+				li {
+					padding: 0 8px;
+				}
+			}	
 
 			.hidden-small {
 				display: none;

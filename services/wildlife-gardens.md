@@ -76,4 +76,4 @@ I have tried copper tape around tubs and pots, but find this to be of little use
 
 **We do not use any pesticides on our plants, all are organically grown.**
 
-[Click here to see what seeds and plants we have available for a wildlife garden](ttps://www.etsy.com/uk/shop/Holistichoundaoa)
+[Click here to see what seeds and plants we have available for a wildlife garden](https://www.etsy.com/uk/shop/Holistichoundaoa)
