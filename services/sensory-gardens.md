@@ -31,36 +31,36 @@ Diet composition of wolves (Canis lupus) on the Scandinavian peninsula determine
 
 ### Some beneficial plants for dogs:
 
--   Barley grass
--   Cat mint
--   Chamomile (German)
--   Cleavers
--   Echinacea
--   Fennel
--   Lavender
--   Lemon balm
--   Lemongrass
--   Marshmallow
--   Parsley
--   Pot Marigold
--   Roses
--   Wheatgrass
--   Yarrow
+- Barley grass
+- Cat mint
+- Chamomile (German)
+- Cleavers
+- Echinacea
+- Fennel
+- Lavender
+- Lemon balm
+- Lemongrass
+- Marshmallow
+- Parsley
+- Pot Marigold
+- Roses
+- Wheatgrass
+- Yarrow
 
 Cats may too eat plant matter, but as this is indigestible for them it is unlikely to be for nutritional benefit. In a study of wild cat scat they found 25% contained plant matter, consisting mainly of grasses and twigs (Ref: Feeding Ecology of a Feral Cat Population on a Small Mediterranean Island).
 
 ### Some beneficial plants for cats:
 
--   Barley grass
--   Catnip
--   Coriander
--   Lavender
--   Lemon balm
--   Peppermint
--   Roses
--   Valerian
--   Wheatgrass
+- Barley grass
+- Catnip
+- Coriander
+- Lavender
+- Lemon balm
+- Peppermint
+- Roses
+- Valerian
+- Wheatgrass
 
 Herbal supplements are sometimes added to an animal's feed however given the choice they may not choose all the constituents of these, but they could be broken down at a Herbal Choices session and offered individually; allowing your animal to choose. However, supplements prescribed by your vet should be continued and reviewed by them.
 
-[For suitable seeds and organically grown plants have a look in our Shop on Etsy](https://www.etsy.com/uk/shop/Holistichoundaoa).
+[For suitable seeds and organically grown plants have a look in our Shop on Etsy](https://gwbotanicals4animals.etsy.com/).

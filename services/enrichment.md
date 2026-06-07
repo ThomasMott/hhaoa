@@ -94,4 +94,4 @@ Chewing may also be useful for cats too, particularly supporting good dental hea
 
 Stress and tension can be carried through the jaws and shoulders of dogs, and should you encounter this it may be beneficial to offer a soft chew initially to relax the muscles, after which a harder chew could be offered.
 
-[Check our available enrichment products via our shop on Etsy](https://www.etsy.com/uk/shop/Holistichoundaoa).
+[Check our available enrichment products via our shop on Etsy](https://gwbotanicals4animals.etsy.com/).

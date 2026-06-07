@@ -41,8 +41,8 @@ Thankfully there is more awareness of the need for biodiversity, the definition 
 
 Below are examples of projects with these principles in mind:
 
--   [Godney Marshes](https://godneymarshes.com/)
--   [Cambrian Wildwood](https://www.cambrianwildwood.org)
+- [Godney Marshes](https://godneymarshes.com/)
+- [Cambrian Wildwood](https://www.cambrianwildwood.org)
 
 with more projects here: [Rewilding projects across Britain | Rewilding Britain](https://www.rewildingbritain.org.uk/rewilding-network/projects)
 
@@ -76,4 +76,4 @@ I have tried copper tape around tubs and pots, but find this to be of little use
 
 **We do not use any pesticides on our plants, all are organically grown.**
 
-[Click here to see what seeds and plants we have available for a wildlife garden](https://www.etsy.com/uk/shop/Holistichoundaoa)
+[Click here to see what seeds and plants we have available for a wildlife garden](https://gwbotanicals4animals.etsy.com/)
